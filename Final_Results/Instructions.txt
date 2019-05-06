@@ -1,0 +1,8 @@
+The submission contains three files: 
+- The Baseline approach code in the .ipynb format named as 'MiroslavGasparek_DeepLearning_Coursework_Baseline.ipynb'
+
+- The Improved approach code in the .ipynb format named 'MiroslavGasparek_DeepLearning_Coursework_Improved.ipynb'
+
+- The report in the .pdf format named 'MiroslavGasparek_DeepLearning_FinalReport.pdf'.
+
+To run the code, all that is needed is to run all the cells, both for the baseline and for ther improved approach. However, all the results and detailed tables should be displayed in the provided juypter notebooks.
